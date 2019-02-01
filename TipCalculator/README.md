@@ -20,5 +20,5 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough 
 
-![Alt Text](https://imgur.com/a/Vpj19Rh)
+![Alt Text](https://media.giphy.com/media/1dJTIGjDt5VvhJRg9s/giphy.gif)
 
